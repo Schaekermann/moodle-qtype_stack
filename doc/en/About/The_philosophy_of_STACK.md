@@ -70,4 +70,4 @@ The problems faced by teachers, particularly in University, are the same the wor
 
 * _STACK is the leading open souce online assessment system for mathematics and STEM._
 
-The business model for STACK relies on institutions collaborating on the infrustricture, remaining free to use the resulting system as the please, including in commercially as needed.  Many design decisions for STACK are a direct result of choosing the GPL license, for example the choice of Maxima as its Computer Algebra System (CAS), Moodle and ILIAS to take care of identity management, LaTeX/MathJax to filter and display mathematics.
+The business model for STACK relies on institutions collaborating on the infrastructure, remaining free to use the resulting system as the please, including in commercially as needed.  Many design decisions for STACK are a direct result of choosing the GPL license, for example the choice of Maxima as its Computer Algebra System (CAS), Moodle and ILIAS to take care of identity management, LaTeX/MathJax to filter and display mathematics.
